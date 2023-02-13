@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\TSC_SlideShowbyStefanG\TSC_SlideShowbyStefanG\bin\Debug\TSC_SlideShowbyStefanG.exe.config
+C:\Users\pc\source\repos\TSC_SlideShowbyStefanG\TSC_SlideShowbyStefanG\bin\Debug\TSC_SlideShowbyStefanG.exe
+C:\Users\pc\source\repos\TSC_SlideShowbyStefanG\TSC_SlideShowbyStefanG\bin\Debug\TSC_SlideShowbyStefanG.pdb
+C:\Users\pc\source\repos\TSC_SlideShowbyStefanG\TSC_SlideShowbyStefanG\obj\Debug\TSC_SlideShowbyStefanG.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\TSC_SlideShowbyStefanG\TSC_SlideShowbyStefanG\obj\Debug\TSC_SlideShowbyStefanG.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\TSC_SlideShowbyStefanG\TSC_SlideShowbyStefanG\obj\Debug\TSC_SlideShowbyStefanG.Form1.resources
+C:\Users\pc\source\repos\TSC_SlideShowbyStefanG\TSC_SlideShowbyStefanG\obj\Debug\TSC_SlideShowbyStefanG.Properties.Resources.resources
+C:\Users\pc\source\repos\TSC_SlideShowbyStefanG\TSC_SlideShowbyStefanG\obj\Debug\TSC_SlideShowbyStefanG.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\TSC_SlideShowbyStefanG\TSC_SlideShowbyStefanG\obj\Debug\TSC_SlideShowbyStefanG.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\TSC_SlideShowbyStefanG\TSC_SlideShowbyStefanG\obj\Debug\TSC_SlideShowbyStefanG.exe
+C:\Users\pc\source\repos\TSC_SlideShowbyStefanG\TSC_SlideShowbyStefanG\obj\Debug\TSC_SlideShowbyStefanG.pdb
+C:\Users\pc\source\repos\TSC_SlideShowbyStefanG\TSC_SlideShowbyStefanG\bin\Debug\DotNetZip.dll
+C:\Users\pc\source\repos\TSC_SlideShowbyStefanG\TSC_SlideShowbyStefanG\bin\Debug\DotNetZip.pdb
+C:\Users\pc\source\repos\TSC_SlideShowbyStefanG\TSC_SlideShowbyStefanG\bin\Debug\DotNetZip.xml
+C:\Users\pc\source\repos\TSC_SlideShowbyStefanG\TSC_SlideShowbyStefanG\obj\Debug\TSC_SlideShowbyStefanG.csproj.CopyComplete
